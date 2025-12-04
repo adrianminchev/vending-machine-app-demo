@@ -1,7 +1,6 @@
-# Vending Machine App
+# React & Next.js Mini App Demo
 
-A small React and TypeScript-based application that simulates a vending machine.  
-Users can insert cents, purchase products, get change, and return cents change. All products data is loaded from a mocked API.
+A starter project to test initial primary features provided by Next.js.
 
 ---
 
